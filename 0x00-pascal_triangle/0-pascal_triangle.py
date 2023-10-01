@@ -29,7 +29,6 @@ def pascal_triangle(n):
 
     return triangle
 
-# Print each row of Pascal's Triangle
-triangle = pascal_triangle(5)
-for row in triangle:
+result = pascal_triangle(5)
+for row in result:
     print(row)
