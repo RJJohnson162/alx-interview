@@ -4,11 +4,10 @@
 0. Pascal's Triangle
 """
 
-
 def pascal_triangle(n):
     """
     Create a function def pascal_triangle(n): that returns a list of lists
-    of integers representing the Pascal’s triangle of n
+    of integers representing the Pascal's triangle of n
     """
 
     triangle = []
@@ -30,4 +29,7 @@ def pascal_triangle(n):
 
     return triangle
 
-(pascal_triangle(5))
+# Print each row of Pascal's Triangle
+triangle = pascal_triangle(5)
+for row in triangle:
+    print(row)
