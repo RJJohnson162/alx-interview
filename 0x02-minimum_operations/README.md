@@ -33,6 +33,3 @@ Authors
 [Marubi N Richard] - [RJJohnson162]
 License
 This project is licensed under the [ALX SE] - see the LICENSE.md file for details.
-
-
-Replace `[Marubi N Richard]` and `[RJJohnson162]` with your own information. You can also specify the appropriate license name and link to the license file as needed.
