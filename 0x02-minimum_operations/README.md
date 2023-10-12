@@ -19,6 +19,8 @@ n = 9
 operations = minOperations(n)
 print(f"Min # of operations to reach {n} char: {operations}")
 
+```
+
 ## Algorithm Explanation
 
 The script uses a dynamic programming approach to calculate the fewest number of operations. It starts with one 'H' character in the file and iteratively checks if it can copy and paste to reach the target number of 'H' characters, updating the count of operations accordingly.
