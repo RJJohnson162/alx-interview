@@ -9,8 +9,11 @@ You can run the script as follows:
 
 ```Python
 python log_metrics.py
-Make sure you have Python installed on your system.
 ```
+
+This will create a CSV file named `log_metrics.csv` in your current directory with all the metrics from the logs.
+
+Make sure you have Python installed on your system.
 
 ## Input Format
 
