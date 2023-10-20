@@ -60,7 +60,8 @@ Suppose you have a log file with the following content:
 192.168.1.2 - [2023-10-19] "GET /projects/260 HTTP/1.1" 404 50
 192.168.1.3 - [2023-10-19] "GET /projects/260 HTTP/1.1" 200 75
 192.168.1.4 - [2023-10-19] "GET /projects/260 HTTP/1.1" 301 60
-192.168.1.5 - [2023-10-19] "POST /projects/260 HTTP/1.1" 500 45```
+192.168.1.5 - [2023-10-19] "POST /projects/260 HTTP/1.1" 500 45
+```
 
 When you run the script and provide this input, after processing every 10 lines or when interrupted, you will get the following output:
 
@@ -69,7 +70,8 @@ Total File Size: 100
 Status Code Metrics:
 200: 2
 301: 1
-404: 1```
+404: 1
+```
 
 ## Author
 
