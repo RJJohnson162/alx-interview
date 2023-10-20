@@ -75,4 +75,4 @@ Status Code Metrics:
 
 ## Author
 
-This script is created by [Marubi N Richard]. For questions or feedback, you can contact me at [richardnyamwamu@gmail.com].
+This script is created by [RJJohnson162]. For questions or feedback, you can contact me at [richardnyamwamu@gmail.com].
